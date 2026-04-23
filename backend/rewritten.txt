@@ -1,0 +1,1 @@
+function audit(input) { return input?.trim(); }

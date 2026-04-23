@@ -1,0 +1,169 @@
+[
+  {
+    "caseId": "fa3e680f-199b-4b85-a881-eed1ea862997",
+    "masterFile": {
+      "name": "sample.txt",
+      "extension": ".txt",
+      "mimeType": "text/plain",
+      "size": 49,
+      "type": "code",
+      "originalFormat": "txt",
+      "originalContent": "function audit(input) { return input?.trim(); }\r\n",
+      "currentContent": "function audit(input) { return input?.trim(); }\r\n",
+      "originalBinary": null,
+      "integrity": {
+        "sha256": "ddd9e03f7c564f58115a0cbb8aae8730f33e723df3e18524c81f3001afc3062b",
+        "md5": "f40f259d65cd37685548c2c681e9c565"
+      },
+      "forensicNotes": [],
+      "lastSavedAt": "2026-04-03T22:00:34.554Z",
+      "metadata": {
+        "fileSystem": {
+          "name": "sample.txt",
+          "size": "0.05 KB",
+          "created": "2026-04-03T22:00:34.554Z",
+          "modified": "2024-04-03T16:00:00.000Z"
+        },
+        "hidden": {},
+        "steganography": {
+          "suspicious": false,
+          "score": 0,
+          "reasons": [
+            "Steganography check is only relevant for supported image uploads."
+          ],
+          "recommendation": "Upload a JPEG or PNG to run the image-focused heuristic."
+        }
+      }
+    },
+    "revisions": [
+      {
+        "revisionId": "bc5aa591-40d7-4011-ab63-a2f1479ea31c",
+        "label": "Initial ingest",
+        "savedAt": "2026-04-03T22:00:34.554Z",
+        "integrity": {
+          "sha256": "ddd9e03f7c564f58115a0cbb8aae8730f33e723df3e18524c81f3001afc3062b",
+          "md5": "f40f259d65cd37685548c2c681e9c565"
+        },
+        "fileName": "sample.txt"
+      }
+    ],
+    "aiHistory": [],
+    "createdAt": "2026-04-03T22:00:34.554Z",
+    "updatedAt": "2026-04-03T22:00:34.554Z"
+  },
+  {
+    "caseId": "6bb9d86f-04d0-4d60-9ceb-91d58c0f534b",
+    "masterFile": {
+      "name": "sample.txt",
+      "extension": ".txt",
+      "mimeType": "text/plain",
+      "size": 49,
+      "type": "code",
+      "originalFormat": "txt",
+      "originalContent": "function audit(input) { return input?.trim(); }\r\n",
+      "currentContent": "function audit(input) { return input?.trim(); }\r\n",
+      "originalBinary": null,
+      "integrity": {
+        "sha256": "ddd9e03f7c564f58115a0cbb8aae8730f33e723df3e18524c81f3001afc3062b",
+        "md5": "f40f259d65cd37685548c2c681e9c565"
+      },
+      "forensicNotes": [],
+      "lastSavedAt": "2026-04-03T22:04:53.688Z",
+      "metadata": {
+        "fileSystem": {
+          "name": "sample.txt",
+          "size": "0.05 KB",
+          "created": "2026-04-03T22:04:53.688Z",
+          "modified": "2024-04-03T16:00:00.000Z"
+        },
+        "hidden": {},
+        "steganography": {
+          "suspicious": false,
+          "score": 0,
+          "reasons": [
+            "Steganography check is only relevant for supported image uploads."
+          ],
+          "recommendation": "Upload a JPEG or PNG to run the image-focused heuristic."
+        }
+      }
+    },
+    "revisions": [
+      {
+        "revisionId": "22b57a79-68c5-4294-83da-3e1f1af5531a",
+        "label": "Initial ingest",
+        "savedAt": "2026-04-03T22:04:53.688Z",
+        "integrity": {
+          "sha256": "ddd9e03f7c564f58115a0cbb8aae8730f33e723df3e18524c81f3001afc3062b",
+          "md5": "f40f259d65cd37685548c2c681e9c565"
+        },
+        "fileName": "sample.txt"
+      }
+    ],
+    "aiHistory": [],
+    "createdAt": "2026-04-03T22:04:53.688Z",
+    "updatedAt": "2026-04-03T22:04:53.688Z"
+  },
+  {
+    "caseId": "3a9ffb75-8c24-41b3-9b28-670e4c221ebd",
+    "masterFile": {
+      "name": "sample.txt",
+      "extension": ".txt",
+      "mimeType": "text/plain",
+      "size": 49,
+      "type": "code",
+      "originalFormat": "txt",
+      "originalContent": "function audit(input) { return input?.trim(); }\r\n",
+      "currentContent": "function audit(input) { return input?.trim(); }\r\n",
+      "originalBinary": null,
+      "integrity": {
+        "sha256": "ddd9e03f7c564f58115a0cbb8aae8730f33e723df3e18524c81f3001afc3062b",
+        "md5": "f40f259d65cd37685548c2c681e9c565"
+      },
+      "forensicNotes": [],
+      "lastSavedAt": "2026-04-03T22:08:39.209Z",
+      "metadata": {
+        "fileSystem": {
+          "name": "sample.txt",
+          "size": "0.05 KB",
+          "created": "2026-04-03T22:08:39.132Z",
+          "modified": "2024-04-03T16:00:00.000Z"
+        },
+        "hidden": {},
+        "steganography": {
+          "suspicious": false,
+          "score": 0,
+          "reasons": [
+            "Steganography check is only relevant for supported image uploads."
+          ],
+          "recommendation": "Upload a JPEG or PNG to run the image-focused heuristic."
+        }
+      },
+      "rewrittenBinary": "data:text/plain;base64,ZnVuY3Rpb24gYXVkaXQoaW5wdXQpIHsgcmV0dXJuIGlucHV0Py50cmltKCk7IH0NCg=="
+    },
+    "revisions": [
+      {
+        "revisionId": "385c98e2-00bf-4763-ab83-befce9e2f133",
+        "label": "Forensic rewrite export",
+        "savedAt": "2026-04-03T22:08:39.209Z",
+        "integrity": {
+          "sha256": "ddd9e03f7c564f58115a0cbb8aae8730f33e723df3e18524c81f3001afc3062b",
+          "md5": "f40f259d65cd37685548c2c681e9c565"
+        },
+        "fileName": "sample.txt"
+      },
+      {
+        "revisionId": "564a3377-4d02-478e-ab7a-5a05d2013b7f",
+        "label": "Initial ingest",
+        "savedAt": "2026-04-03T22:08:39.132Z",
+        "integrity": {
+          "sha256": "ddd9e03f7c564f58115a0cbb8aae8730f33e723df3e18524c81f3001afc3062b",
+          "md5": "f40f259d65cd37685548c2c681e9c565"
+        },
+        "fileName": "sample.txt"
+      }
+    ],
+    "aiHistory": [],
+    "createdAt": "2026-04-03T22:08:39.132Z",
+    "updatedAt": "2026-04-03T22:08:39.209Z"
+  }
+]
